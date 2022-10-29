@@ -1,4 +1,4 @@
-# Chapter 1 - The value of an asset
+# The value of an asset
 
 You take a picture of your child.
 Instantly you look at the picture and determine if it is a good picture, is this something you want to save, or do you want to delete it? 

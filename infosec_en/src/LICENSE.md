@@ -1,3 +1,11 @@
+# Books License
+
+## Licensed under Attribution-NonCommercial 4.0 International
+[Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/)
+
+![Attribution-NonCommercial 4.0 International](https://i.creativecommons.org/l/by-nc/4.0/88x31.png "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License")
+
+
 Full License Text
 
 Using Creative Commons Public Licenses
