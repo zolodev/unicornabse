@@ -2,7 +2,7 @@
 
 [License](./License.md)
 
-- [Introduction](./introduction.md)
+[Introduction](./introduction.md)
     - [About the authors](./about_the_authors.md)
     - [Quickstart](./quickstart.md)
     - [How to read](./how_to_read.md)
@@ -37,5 +37,6 @@
 - [Conclusion]()
 -----------
 - [Final words]()
-- [Resources and links](./resources_and_recommendations.md)
-- [Contributors](./contributors.md)
+
+[Resources and links](./resources_and_recommendations.md)
+[Contributors](./contributors.md)
