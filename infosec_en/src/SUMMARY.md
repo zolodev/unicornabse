@@ -35,6 +35,6 @@
 - [Conclusion]()
 -----------
 - [Final words]()
-- [Resources and links](./resources.md)
+- [Resources and links](./resources_and_recommendations.md)
 - [License](./License.md)
 - [Contributors](./contributors.md)

@@ -9,7 +9,7 @@ could jump directly to the moduls section.
 > Important to know is you will need the foundation of assessing your 
 > information, therfor the first moduls is mandatory for the other moduls to 
 > work. As long as you have the first module in place you are on a great start
-> and wich way your organisation takes after that is up you you.
+> and wich way your organisation takes after that is up you.
 
 If there is one thing that you should take from this guide; that this is an
 interative process, and that just by starting this process you have taken the 
