@@ -12,4 +12,4 @@ The rest of the information in this guide will be added over time.
 This guide is a work in progress and will be a subject to change.
 
 ![Password Strength](https://imgs.xkcd.com/comics/password_strength.png "https://xkcd.com/936/")
-*A classic image from XKCD (936) to describe password strength*
+*An image from XKCD (936) to describing password strength*

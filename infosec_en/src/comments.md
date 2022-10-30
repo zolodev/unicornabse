@@ -1,4 +1,4 @@
-# TODO
+# TODO - Internal document
 
 [//]: <> (Implementation skulle kunna vara EN SOC. En SOC arbetar aktivt med modul. 4 och 5 kontinuerligt.)
 

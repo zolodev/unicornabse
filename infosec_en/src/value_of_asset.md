@@ -14,9 +14,9 @@ Based on the value of the picture, and the impact it has on you as an individual
 
 We will look at this from an information security standpoint, what happens if either of confidentiality, integrity and availability is broken?
 
-**Confidentiality**, meaning if the picture is seen by someone who is not supposed or allowed to see it.
-**Integrity**, meaning if the picture is distorted, or changed in any way from the original.
-**Availability**, meaning if this picture is not available to you when you want to look at it, or when you want to see it, if it is lost forever?
+* **Confidentiality**, meaning if the picture is seen by someone who is not supposed or allowed to see it.
+* **Integrity**, meaning if the picture is distorted, or changed in any way from the original.
+* **Availability**, meaning if this picture is not available to you when you want to look at it, or when you want to see it, if it is lost forever?
 
 What is the impact to you personally?
 What is the impact to your child? 

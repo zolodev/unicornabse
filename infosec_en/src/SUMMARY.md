@@ -1,7 +1,7 @@
 # Summary
 
 - [Introduction](./introduction.md)
-    - [Reason]()
+    - [About the authors](./about_the_authors.md)
     - [Quickstart](./quickstart.md)
 
 # Modules
@@ -31,8 +31,9 @@
     - [Making sure bla bla]()
 - [Reviewing your defenses]()
     - [Gathering the data]()
-
+- [Conclusion]()
 -----------
-
+- [Final words]()
+- [Resources and links](./resources.md)
 - [License](./License.md)
 - [Contributors](./contributors.md)
