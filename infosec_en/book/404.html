@@ -82,7 +82,7 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item expanded "><a href="License.html"><strong aria-hidden="true">1.</strong> License</a></li><li class="chapter-item expanded "><a href="chapter_1.html"><strong aria-hidden="true">2.</strong> The value of an asset</a></li></ol>
+                <ol class="chapter"><li class="chapter-item expanded affix "><li class="part-title">Modules</li><li class="chapter-item expanded "><a href="value_of_asset.html"><strong aria-hidden="true">1.</strong> The value of an asset</a></li><li><ol class="section"><li class="chapter-item expanded "><div><strong aria-hidden="true">1.1.</strong> Gather information</div></li><li><ol class="section"><li class="chapter-item expanded "><div><strong aria-hidden="true">1.1.1.</strong> List your assets</div></li></ol></li></ol></li><li class="chapter-item expanded "><div><strong aria-hidden="true">2.</strong> Creating defenses</div></li><li><ol class="section"><li class="chapter-item expanded "><div><strong aria-hidden="true">2.1.</strong> Writing a guideline</div></li></ol></li><li class="chapter-item expanded "><div><strong aria-hidden="true">3.</strong> Implementing defenses</div></li><li><ol class="section"><li class="chapter-item expanded "><div><strong aria-hidden="true">3.1.</strong> Adding your controls</div></li></ol></li><li class="chapter-item expanded "><div><strong aria-hidden="true">4.</strong> Verifying your defenses</div></li><li><ol class="section"><li class="chapter-item expanded "><div><strong aria-hidden="true">4.1.</strong> Making sure bla bla</div></li></ol></li><li class="chapter-item expanded "><div><strong aria-hidden="true">5.</strong> Reviewing your defenses</div></li><li><ol class="section"><li class="chapter-item expanded "><div><strong aria-hidden="true">5.1.</strong> Gathering the data</div></li><li class="spacer"></li></ol></li><li class="chapter-item expanded "><a href="License.html"><strong aria-hidden="true">6.</strong> License</a></li><li class="spacer"></li><li class="chapter-item expanded "><div><strong aria-hidden="true">7.</strong> Scenario</div></li><li><ol class="section"><li class="chapter-item expanded "><div><strong aria-hidden="true">7.1.</strong> Gather information</div></li><li><ol class="section"><li class="chapter-item expanded "><div><strong aria-hidden="true">7.1.1.</strong> List your assets</div></li></ol></li></ol></li><li class="chapter-item expanded "><div><strong aria-hidden="true">8.</strong> Creating defenses</div></li><li><ol class="section"><li class="chapter-item expanded "><div><strong aria-hidden="true">8.1.</strong> Writing a guideline</div></li></ol></li><li class="chapter-item expanded "><div><strong aria-hidden="true">9.</strong> Implementing defenses</div></li><li><ol class="section"><li class="chapter-item expanded "><div><strong aria-hidden="true">9.1.</strong> Adding your controls</div></li></ol></li><li class="chapter-item expanded "><div><strong aria-hidden="true">10.</strong> Verifying your defenses</div></li><li><ol class="section"><li class="chapter-item expanded "><div><strong aria-hidden="true">10.1.</strong> Making sure bla bla</div></li></ol></li><li class="chapter-item expanded "><div><strong aria-hidden="true">11.</strong> Reviewing your defenses</div></li><li><ol class="section"><li class="chapter-item expanded "><div><strong aria-hidden="true">11.1.</strong> Gathering the data</div></li></ol></li></ol>
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
         </nav>
@@ -163,6 +163,22 @@
 
         </div>
 
+        <!-- Livereload script (if served using the cli tool) -->
+        <script type="text/javascript">
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
 
 
 
