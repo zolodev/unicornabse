@@ -19,14 +19,22 @@ We will look at this from an information security standpoint, what happens if ei
 * **Availability**, meaning if this picture is not available to you when you want to look at it, or when you want to see it, if it is lost forever?
 
 What is the impact to you personally?
-What is the impact to your child? 
-Can this be harmful? 
+
+What is the impact to your child?
+
+Can this be harmful?
+
 *Can information in the picture be used to harm you, your family or another person or organisation?*
 Is there an impact on your daily life?
+
 *Maybe want to use this picture to create holiday cards, or make a photo album.*
+
 *Maybe you have this picture on your desk, to remind you of what is valuable in life?*
+
 Is there a financial impact?
+
 Is there an impact on your reputation? 
+
 *Can this picture be used to defame you and your family, or used as blackmail?*
 
 Your answer to these questions, any many more means you have now classified your picture, or the asset. It has a value, and has been categorized.
