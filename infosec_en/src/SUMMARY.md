@@ -1,5 +1,8 @@
 # Summary
 
+- [Introduction](./introduction.md)
+    - [Reason]()
+    - [Quickstart](./quickstart.md)
 
 # Modules
 
@@ -15,9 +18,8 @@
 - [Reviewing your defenses]()
     - [Gathering the data]()
 
------------
-- [License](./License.md)
------------
+# Practical Scenario
+
 - [Scenario]()
     - [Gather information]()
         - [List your assets]()
@@ -29,3 +31,8 @@
     - [Making sure bla bla]()
 - [Reviewing your defenses]()
     - [Gathering the data]()
+
+-----------
+
+- [License](./License.md)
+- [Contributors](./contributors.md)

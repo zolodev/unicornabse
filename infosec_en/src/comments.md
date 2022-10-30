@@ -12,3 +12,8 @@
 [//]:<> ( Testa policy med phishing, testa säkerhet med pentesting, verifiera att kontroller är på plats, red/blue-team övningar, testa recovery plan, öva för recovery plan, öva incident )
 [//]:<> (Module 5: Reviewing defenses)
 [//]:<> (Se över data på attacker/stoppade attacker, se över data från pentests, se över data från incidenter, övningar etc. OCH FORMULERA IN I RAPPORT SÅ DEN ÄR ÖVERSKÅDLIG )
+
+
+[//]:<> (Anledningen till vi vill göra detta är för att infosäk skall vara gratis och tillgängligt)
+[//]:<> (och att teama upp är det bästa sättet att vinna mot the bad guys, eftersom man alltid är i underläge när man defendar.)
+[//]:<> (Det skall vara tillgängligt för alla.)
