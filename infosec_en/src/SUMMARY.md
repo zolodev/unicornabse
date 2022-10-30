@@ -1,7 +1,6 @@
 # Summary
 
 [License](./License.md)
-
 [Introduction](./introduction.md)
 [About the authors](./about_the_authors.md)
 [Quickstart](./quickstart.md)
