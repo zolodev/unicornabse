@@ -1,6 +1,7 @@
 [book]
-authors = ["nimi & zolo"]
+authors = ["nimi", "Zolo"]
+description = "Practical modulare information security"
 language = "en"
 multilingual = false
 src = "src"
-title = "Rainbow and Sunshine"
+title = "Rainbows and Sunshine"
