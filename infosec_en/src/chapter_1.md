@@ -30,5 +30,3 @@ Is there an impact on your reputation?
 *Can this picture be used to defame you and your family, or used as blackmail?*
 
 Your answer to these questions, any many more means you have now classified your picture, or the asset. It has a value, and has been categorized.
-
-nicklastest
