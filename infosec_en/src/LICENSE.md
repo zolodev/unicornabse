@@ -1,6 +1,8 @@
-# Books License
+# License
 
-## Licensed under Attribution-NonCommercial 4.0 International
+The content is licensed under Attribution-NonCommercial 4.0 International.
+
+## Attribution-NonCommercial 4.0 International
 [Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ![Attribution-NonCommercial 4.0 International](https://i.creativecommons.org/l/by-nc/4.0/88x31.png "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License")
@@ -124,5 +126,5 @@ Creative Commons is not a party to its public licenses. Notwithstanding, Creativ
 Creative Commons may be contacted at creativecommons.org.
 
 ---
-The graphics from XKCD is licensed under 
+## XKCD grapichs licens
 [Attribution-NonCommercial 2.5 Generic](https://creativecommons.org/licenses/by-nc/2.5/)

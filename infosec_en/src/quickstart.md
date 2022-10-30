@@ -3,7 +3,7 @@
 A great example where to start is to take a look at password policies.
 As of today year 2022, we need at least 14 characters to make a strong password.
 
-So if you need a quickfix, start with these two:
+So if you need a quickfix, start with the following:
     
 1. Remove password retention polices (do not force users to change passwords).
 2. All passwords should be a minimum of 14 characters.

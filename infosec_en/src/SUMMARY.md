@@ -1,5 +1,7 @@
 # Summary
 
+[License](./License.md)
+
 - [Introduction](./introduction.md)
     - [About the authors](./about_the_authors.md)
     - [Quickstart](./quickstart.md)
@@ -36,5 +38,4 @@
 -----------
 - [Final words]()
 - [Resources and links](./resources_and_recommendations.md)
-- [License](./License.md)
 - [Contributors](./contributors.md)
