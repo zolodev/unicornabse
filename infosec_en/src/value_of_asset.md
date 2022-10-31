@@ -1,5 +1,7 @@
 # The value of an asset
-
+## DISCLAIMER
+> THIS IS A DRAFT - THE INFORMATION MAY BE INACCURATE OR INCOMPLETE 
+> DO NOT IMPLEMENT ANYTHING THAT HAS THIS DISCLAIMER!
 You take a picture of your child.
 Instantly you look at the picture and determine if it is a good picture, is this something you want to save, or do you want to delete it? 
 Assuming you want to save this picture. You have now created an asset, something that is of value to you.  Something that you want to protect, and keep.

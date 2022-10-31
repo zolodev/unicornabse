@@ -1,5 +1,9 @@
 # How to read
 
+## DISCLAIMER
+> THIS IS A DRAFT - THE INFORMATION MAY BE INACCURATE OR INCOMPLETE 
+> DO NOT IMPLEMENT ANYTHING THAT HAS THIS DISCLAIMER!
+
 The best way to read this guide is to get a general understanding of 
 information security and the short introduction.
 

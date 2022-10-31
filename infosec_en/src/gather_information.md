@@ -2,6 +2,17 @@
 
 [//]: <> (Skriver bara en kort inledning, denna får Nimi kolla vidare på...)
 [//]: <> (Nimi, du får kolla på texten nedan, jag ville bara testa quote)
+## DISCLAIMER
+> THIS IS A DRAFT - THE INFORMATION MAY BE INACCURATE OR INCOMPLETE 
+> DO NOT IMPLEMENT ANYTHING THAT HAS THIS DISCLAIMER
+
+## NOTE
+> While we recommend that all modules are done in full, this one is mandatory. 
+> You need to know what you have in order to protect it.
+
+
+
+
 
 One thing that is most important when gathering information, is to make sure
 that the right people working with the information is gathered to sit down and
@@ -23,7 +34,7 @@ this new model of being modulare, this is an optional part in our opinion.
 > will not only save the cost of the defense, but also to set the correct level
 > of defense.
 
-## Example for a workshop
+## Example workshop
 1. Describe a general threat model
 2. Create a threat model of the organisation
 3. Create a risk assessment with risk scenarios
