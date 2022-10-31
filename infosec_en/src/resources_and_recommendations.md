@@ -2,6 +2,7 @@
 ## DISCLAIMER
 > THIS IS A DRAFT - THE INFORMATION MAY BE INACCURATE OR INCOMPLETE 
 > DO NOT IMPLEMENT ANYTHING THAT HAS THIS DISCLAIMER!
+
 Here we list all available resources that we have based our guide on.
 
 # Recommendations

@@ -2,6 +2,7 @@
 ## DISCLAIMER
 > THIS IS A DRAFT - THE INFORMATION MAY BE INACCURATE OR INCOMPLETE 
 > DO NOT IMPLEMENT ANYTHING THAT HAS THIS DISCLAIMER!
+
 A great example where to start is to take a look at password policies.
 As of today year 2022, we need at least 14 characters to make a strong password.
 

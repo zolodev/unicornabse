@@ -2,9 +2,10 @@
 
 [//]: <> (Skriver bara en kort inledning, denna får Nimi kolla vidare på...)
 [//]: <> (Nimi, du får kolla på texten nedan, jag ville bara testa quote)
+
 ## DISCLAIMER
 > THIS IS A DRAFT - THE INFORMATION MAY BE INACCURATE OR INCOMPLETE 
-> DO NOT IMPLEMENT ANYTHING THAT HAS THIS DISCLAIMER
+> DO NOT IMPLEMENT ANYTHING THAT HAS THIS DISCLAIMER!
 
 ## NOTE
 > While we recommend that all modules are done in full, this one is mandatory. 
