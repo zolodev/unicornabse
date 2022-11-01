@@ -153,25 +153,47 @@ DO NOT IMPLEMENT ANYTHING THAT HAS THIS DISCLAIMER!</p>
 <p>While we recommend that all modules are done in full, this one is mandatory. 
 You need to know what you have in order to protect it.</p>
 </blockquote>
-<p>One thing that is most important when gathering information, is to make sure
-that the right people working with the information is gathered to sit down and
-to talk about the information. That the people working with the data and the 
-information is actually part of the assesment. This has been proven several
-times that this will have the best impact and also is the quickest to get the
-correct information when the assesment of the data and information begins.</p>
-<p>Another important thing is to know the threat against the organisation, however
-this new model of being modulare, this is an optional part in our opinion.</p>
-<h2 id="important-note"><a class="header" href="#important-note">Important note</a></h2>
+<h2 id="introduction"><a class="header" href="#introduction">Introduction</a></h2>
+<p>To begin your journey in information security, you need to know what you have in order to protect it. Once you have completed the steps in this module, you'll have a better understanding on what assets exist in your organization.
+When talking about assets in this book, an asset is something that either:</p>
+<ol>
+<li>Creates information or data.</li>
+<li>Modifies information or data.</li>
+<li>Reads information or data. </li>
+</ol>
+<p>An asset is basically anything that touches information or data in some way or another. From hereon, the terms information and data will be used in their respective manner. Data is a representation of facts, terms or instructions. Usually in a shape that is intended for transfer, interpretation or modification. Information is the meaning of the data, this means that once data has been interpreted by someone or something, it is transformed into information.</p>
+<h3 id="example"><a class="header" href="#example">Example:</a></h3>
 <blockquote>
-<p>We recommend that all modules should always be implemented, but if this is
-the first iteration, this step could potentially be skipped. But it is important
-to know then that the risk of classify the information higher will cost more
-in the end. The reason a threat model is important is to have a better understanding
-if the threat is devastating to the holder of the asset.
-The threat modell helps to set the correct level of protection, that also 
-will not only save the cost of the defense, but also to set the correct level
-of defense.</p>
+<p>Random statistics from visitors to your website. The data itself means nothing. However, once the data has been processed, it creates a report, graphs and makes sense out of the data. This is what we call information. (<strong>CHANGE THIS EXAMPLE</strong>)</p>
 </blockquote>
+<p>Depending on the size of your organization, this is a daunting task and it might feel overwhelming to get started. Keep in mind that this is an iterative process, meaning we will repeat this entire module regularly. This also means that even if an asset is missed in the first cycle, you can always add it. Remember, getting started is better than doing nothing.</p>
+<p>To begin with, we start by grouping up assets into categories, we have provided an example to use here, and this is what the authors base the other modules after as well. Feel free to modify and change anything to fit your organizational needs better. If you are a beginner, we recommend following our steps the first couple of cycles. </p>
+<table>
+  <tr>
+    <th>Person</th>
+    <td>This category includes but are not limited to external consultants, management, board members. Any living being that touches information in some way at your organization. </td>
+  </tr>
+  <tr>
+    <th>Process</th>
+    <td>This category includes but are not limited to operations, workflows and similar. </td>
+  </tr>
+    <tr>
+    <th>Software</th>
+    <td>This category includes all software that is used to touch information or data in any way. This is all the applications used, the servers, the databases, any storage.</td>
+  </tr>
+    <tr>
+    <th>Hardware</th>
+    <td>This category includes all hardware being used to touch or protect information in any way. This is all the computers, including servers. All mobile devices such as phones and tables. All IoT devices. </td>
+  </tr>
+    <tr>
+    <th>Information</th>
+    <td>This is an advanced asset. Listing all the information an organization has is extremely time consuming. Later on in the module, we will explore ways to make this more easily managed. This is also what we are seeking to protect with information security. </td>
+  </tr>
+    <tr>
+    <th>Data</th>
+    <td>This is another advanced asset. Listing all types of data in an organization is probably impossible. We'll cover this later on in the module as well.</td>
+  </tr>
+</table>
 <h2 id="example-workshop"><a class="header" href="#example-workshop">Example workshop</a></h2>
 <ol>
 <li>Describe a general threat model</li>
@@ -208,6 +230,22 @@ of defense.</p>
 
         </div>
 
+        <!-- Livereload script (if served using the cli tool) -->
+        <script type="text/javascript">
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
 
 
 
