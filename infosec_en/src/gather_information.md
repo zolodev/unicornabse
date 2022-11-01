@@ -29,32 +29,15 @@ Depending on the size of your organization, this is a daunting task and it might
 
 To begin with, we start by grouping up assets into categories, we have provided an example to use here, and this is what the authors base the other modules after as well. Feel free to modify and change anything to fit your organizational needs better. If you are a beginner, we recommend following our steps the first couple of cycles. 
 
-<table>
-  <tr>
-    <th>Person</th>
-    <td>This category includes but are not limited to external consultants, management, board members. Any living being that touches information in some way at your organization. </td>
-  </tr>
-  <tr>
-    <th>Process</th>
-    <td>This category includes but are not limited to operations, workflows and similar. </td>
-  </tr>
-    <tr>
-    <th>Software</th>
-    <td>This category includes all software that is used to touch information or data in any way. This is all the applications used, the servers, the databases, any storage.</td>
-  </tr>
-    <tr>
-    <th>Hardware</th>
-    <td>This category includes all hardware being used to touch or protect information in any way. This is all the computers, including servers. All mobile devices such as phones and tables. All IoT devices. </td>
-  </tr>
-    <tr>
-    <th>Information</th>
-    <td>This is an advanced asset. Listing all the information an organization has is extremely time consuming. Later on in the module, we will explore ways to make this more easily managed. This is also what we are seeking to protect with information security. </td>
-  </tr>
-    <tr>
-    <th>Data</th>
-    <td>This is another advanced asset. Listing all types of data in an organization is probably impossible. We'll cover this later on in the module as well.</td>
-  </tr>
-</table>
+| Category     | Description |
+|--------------|-------------|
+| Person       |  This category includes but are not limited to external consultants, management, board members. Any living being that touches information in some way at your organization.|
+| Process      |  This category includes but are not limited to operations, workflows and similar.|
+| Software     | This category includes all software that is used to touch information or data in any way. This is all the applications used, the servers, the databases, any storage.|
+| Hardware     | This category includes all hardware being used to touch or protect information in any way. This is all the computers, including servers. All mobile devices such as phones and tables. All IoT devices.|
+| Information  | This is an advanced asset. Listing all the information an organization has is extremely time consuming. Later on in the module, we will explore ways to make this more easily managed. This is also what we are seeking to protect with information security.|
+| Data         | This is another advanced asset. Listing all types of data in an organization is probably impossible. We'll cover this later on in the module as well.|
+
 
 ## Example workshop
 1. Describe a general threat model
